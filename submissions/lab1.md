@@ -87,3 +87,23 @@ Date:   Sat Jun 6 20:46:45 2026 +0300
 Signed commits provide cryptographic proof of code provenance, ensuring that changes were actually made by the claimed author.
 This is crucial for preventing supply chain attacks like the March 2024 xz-utils incident, where an attacker used a social-engineered account to slip a backdoor into a critical data compression Linux library.
 If strict signature verification had been enforced, the unauthorized commits from the compromised account would have been immediately flagged as unverified, stopping the attack before it reached production.
+
+## Task 2: Pull Request Template
+
+Added template to main branch, opened a lab PR.
+
+## Task 3:  GitHub Community Engagement
+
+### Actions Completed
+- Starred: [inno-devops-labs/DevOps-Intro](https://github.com/inno-devops-labs/DevOps-Intro)
+- Starred: [simple-container-com/api](https://github.com/simple-container-com/api)
+- Following: [@Cre-eD](https://github.com/Cre-eD), [@Naghme98](https://github.com/Naghme98), [@pierrepicaud](https://github.com/pierrepicaud)
+- Following 3+ classmates: [@alpa4](https://github.com/alpa4), [@Aleksandr Romanov
+](https://github.com/Dekart-hub), [@Mostafa Kira
+](https://github.com/MostafaKhaled2017), [@Hidancloud](https://github.com/Hidancloud), [@lime413](https://github.com/lime413)
+
+###  GitHub Community
+Starring repositories acts as a personal bookmarking system and a public signal of appreciation that helps maintainers gauge interest and
+boosts a project's discoverability in the open-source ecosystem.
+Following developers and teammates creates a light professional network that surfaces their activity, making it easier to check their work and learn from it,
+spot collaboration opportunities, and stay aligned with the team's technical direction without formal meetings.
